@@ -14,8 +14,10 @@ UPI fraud is a type of cybercrime where attackers trick users into authorizing p
 
 Common targets include students, job seekers, elderly individuals, and people unfamiliar with digital payments. Fraudsters often exploit urgency, trust, or lack of awareness.
 
-
 **Consequences:**
 
 Victims face immediate financial loss, and due to real-time transactions, recovery is difficult. Fraudsters often move money across multiple accounts quickly, making tracking challenging. 
 This case highlights the importance of awareness, as UPI frauds in India have risen significantly with increasing digital transactions. 
+
+
+**Source:** https://www.indusind.bank.in/iblogs/fraud-prevention/jump-deposit-upi-fraud-tips-to-safeguard-money/
