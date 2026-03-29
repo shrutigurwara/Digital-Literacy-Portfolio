@@ -1,4 +1,4 @@
-**Case Study: UPI / Online Payment Fraud**
+# Case Study: UPI / Online Payment Fraud
 
 UPI fraud is a type of cybercrime where attackers trick users into authorizing payments or sharing sensitive banking details. A common real-life example is the “Jump Deposit Scam” where victims are manipulated into unknowingly authorizing fraudulent transactions. In one reported case, a job seeker in Bengaluru was tricked by a fraudster pretending to be an HR executive from a reputed company. The scammer claimed that the victim’s first salary was being credited but needed “verification.” The victim approved a ₹10,000 request, unknowingly losing the money.
 
