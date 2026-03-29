@@ -1,4 +1,4 @@
-**Online Safety Checklist for Indian College Students:**
+# Online Safety Checklist for Indian College Students
 
 - Use strong, unique passwords for each account (mix letters, numbers, symbols) and enable two-factor authentication (2FA).
 - Keep your apps and devices updated to protect against security vulnerabilities, use Anti-Virus and malware detecting software.
