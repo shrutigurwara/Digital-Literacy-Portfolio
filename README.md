@@ -30,7 +30,7 @@ Overall, this project enhances digital awareness, communication skills, and onli
   and secure online activities.  
   
 **Links:**
-- Profile README: https://github.com/shrutigurwara/-shrutigurwara.git
+- Profile README: https://github.com/shrutigurwara/shrutigurwara.git
 - Canva Link: https://canva.link/4k4sofp39izdqua
 - Google Form link: https://forms.gle/KEEyup6YjNAVGCma6
 - Case Study Source: https://www.indusind.bank.in/iblogs/fraud-prevention/jump-deposit-upi-fraud-tips-to-safeguard-money/
